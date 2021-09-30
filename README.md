@@ -1,6 +1,6 @@
 # Work
 - I’m @LainShot
-- I solve engineering problems for a job using technology weather that is hardware or software.
+- I solve engineering problems for a job using technology whether that is hardware or software.
 - I spend more time writing COBOL now, helping creating code to interface legacy systems with there modern replacments that I also help design and implment.
 - This can be hard as a system might not of been touched for 30 years and might do a very specfic complex job in industry, that lifes are dependant on.
 - This means I have both a legacy skill set (cobol fms vax) and a modern one such as (TypeScript, C++, and intel ASM to name a few)
